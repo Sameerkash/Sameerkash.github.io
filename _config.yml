@@ -12,7 +12,7 @@ title                    : "Sameer Kashyap"
 title_separator          : "-"
 name                     : &name "Sameer Kashyap"
 description              : &description "Hello! my current research interests are in applying Scientific Machine Learning and Explianbale AI to climate related research statments, I am also a Full Stack AI Software Engineer"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://sameerkash.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Sameerkash/sameerkash.github.io"
 
