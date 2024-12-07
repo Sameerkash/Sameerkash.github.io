@@ -22,13 +22,13 @@ repository               : "Sameerkash/sameerkash.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Sameer"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Hello! my current research interests are in applying Scientific Machine Learning and Explianbale AI to climate related research statments, I am also a Full Stack AI Software Engineer"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Acko"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "sameera.kashyap@acko.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
