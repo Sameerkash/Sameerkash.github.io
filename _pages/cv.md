@@ -11,35 +11,42 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.E in Computer Science & Engineering (August. 2017 -- August. 2021)
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Acko Software Development Engineer - II** (April 2024 - Present)
+  * Demonstrated strong product ownership by leading the end-to-end development of the service-os product app.
+  *  Pioneered the design and implementation of a Server Driven UI (SDUI) layer.
+  *  Developed a Cache-Manager module for network and image caching, reducing API calls by 65%.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Acko Software Development Engineer - I** (November 2022 - March 2024)
+  * Led the development of Ambulance flow by integrating third-party APIs, reducing emergency response time by 20%.
+  * Improved developer productivity through documentation and proactive system upgrades.
+  * Successfully integrated AckoDrive, driving a 400% lead acquisition growth in two weeks.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* **FrontRow, Software Engineer** (August 2021 - October 2022
+  * Engineered 30+ features, increasing the user base from 700K to 2.2M in 8 months.
+  * Created Premium features, driving a 5x revenue growth to $1M ARR.
+  * Reduced onboarding drop-off rates by 60-70% through iterative improvements.
+
+* **Celo India Fellowship - Celo India Blockchain Fellow** (June 2021 - August 2021)
+  * Increased mobile-focused community participation by 2x.
+  * Initiated the port of ContractKit SDK to Dart for improved adoption.
+
+* **Major League Hacking Fellowship MLH Explorer Fellow** (February 2021 - April 2021)
+  * Built three sprint projects, collaborating with global teams.
+  * Leveraged Ethereum, Web3.js, and other tools to accelerate development.
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages: Dart, Java, JavaScript(Typescript), Solidity, Julia, Python
+* UI Frameworks & Libraries: Flutter, React.js, Next.js React Native
+* Backend Frameworks & Runtime : Node.js, Nest.js GraphQL, REST API, Flask
+* Databases: MongoDB, SQLite, PostgreSQL, Redis
+* Tools: Git, Docker, CI/CD, Kubernetes, Kafka
+* Cloud Services: Firebase(Google Cloud), Amazon Web Services, Heroku
 
 Publications
 ======
@@ -59,6 +66,20 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Leadership & Extracurricular
 ======
-* Currently signed in to 43 different slack teams
+* Polygon Advocate @Polygon 
+* Student Lead @Google Developer Student Clubs
+* Facilitator @Google Cloud
+
+Awards & Scholarships
+======
+* 2024 – Colosseum Renaissance Hackathon  – Runner up (Decentralised Physical Infrastructure track) - $20K
+* 2023 – Frankfurt School of Blockchain  – Regenerative Finance Scholarship (of 200 participants worldwide)
+* 2023 – Solana Breakpoint Hackathon  – Winner (Climate Award) - $5K
+* 2021 – Polygon BUIDL IT Hackathon  - Winner (Community Award) - $250
+* 2021 – Celo Defi For The People Hackathon - Winner (Regenerative Finance track) - $20K
+* 2021 – Hackout By Headout  - Runner up - $750
+* 2020 – Conference Scholarship Recipient @KubeCon + CloudNativeCon by Cloud-Native foundation
+* 2020 – Conference Scholarship Recipient @GraphQL Asia by Hasura
+* 2020 – Merit cum Means Scholarship Recipient @Ministry of Human Resource and Development, Govt. of India
