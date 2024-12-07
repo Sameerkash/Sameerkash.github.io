@@ -72,6 +72,19 @@ Leadership & Extracurricular
 * Student Lead @Google Developer Student Clubs
 * Facilitator @Google Cloud
 
+Open Source & Community Contributions
+======
+* Open Source Contributor @Flutter
+* Open Source Contributor @Dart
+* Chief Guest at Smart India Hackathon (RV Institute of Technology)
+* Judge at NoTackle Hackathon (Dayananda Sagar Academy of Technology)
+* Speaker at QuantumX (New Horizon College of Engineering)
+* Speaker at Talk Tapestry (K.S. School of Engineering and Management)
+* Speaker at Flutter Bangalore Meetup
+* Speaker at Flutter Global Summit
+* Speaker at GeekyAnts
+* Speaker at Blockchain Global Summit
+
 Awards & Scholarships
 ======
 * 2024 – Colosseum Renaissance Hackathon  – Runner up (Decentralised Physical Infrastructure track) - $20K
