@@ -45,7 +45,7 @@ Skills
 ======
 * Programming Languages: Dart, Java, JavaScript(Typescript), Solidity, Julia, Python
 * UI Frameworks & Libraries: Flutter, React.js, Next.js React Native
-* Backend Frameworks & Runtime : Node.js, Nest.js GraphQL, REST API, Flask
+* Backend Frameworks & Runtime : Node.js, Nest.js GraphQL, REST API, Flask, Pytorch
 * Databases: MongoDB, SQLite, PostgreSQL, Redis
 * Tools: Git, Docker, CI/CD, Kubernetes, Kafka
 * Cloud Services: Firebase(Google Cloud), Amazon Web Services, Heroku
