@@ -1,14 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Modeling chaotic Lorenz ODE System using Scientific Machine Learning"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2024-10-09-sciml-lorenz
+excerpt: 'In climate science, models for global warming and weather prediction face significant challenges due to the limited availability of high-quality data and the difficulty in obtaining it, making data efficiency crucial.'
+date: 2024-10-09
+venue: 'Journal of Machine Learning Research (submitted)'
+# slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+paperurl: 'https://arxiv.org/abs/2410.06452'
+citation: 'Sameera S Kashyap, Raj Abhijit Dandekar, Rajat Dandekar, Sreedath Panat (2024). &quot;Modeling chaotic Lorenz ODE System using Scientific Machine Learning
+.&quot; <i>arvix preprint arXiv:2410.06452 </i>'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+In climate science, models for global warming and weather prediction face significant challenges due to the limited availability of high-quality data and the difficulty in obtaining it, making data efficiency crucial. In the past few years, Scientific Machine Learning (SciML) models have gained tremendous traction as they can be trained in a data-efficient manner, making them highly suitable for real-world climate applications. Despite this, very little attention has been paid to chaotic climate system modeling utilizing SciML methods. In this paper, we have integrated SciML methods into foundational weather models, where we have enhanced large-scale climate predictions with a physics-informed approach that achieves high accuracy with reduced data. We successfully demonstrate that by combining the interpretability of physical climate models with the computational power of neural networks, SciML models can prove to be a reliable tool for modeling climate. This indicates a shift from the traditional black box-based machine learning modeling of climate systems to physics-informed decision-making, leading to effective climate policy implementation

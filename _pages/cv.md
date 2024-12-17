@@ -15,12 +15,12 @@ Education
 
 Work experience
 ======
-* **Acko Software Development Engineer - II** (April 2024 - Present)
+* **Acko, Software Development Engineer - II** (April 2024 - Present)
   * Demonstrated strong product ownership by leading the end-to-end development of the service-os product app.
   *  Pioneered the design and implementation of a Server Driven UI (SDUI) layer.
   *  Developed a Cache-Manager module for network and image caching, reducing API calls by 65%.
 
-* **Acko Software Development Engineer - I** (November 2022 - March 2024)
+* **Acko, Software Development Engineer - I** (November 2022 - March 2024)
   * Led the development of Ambulance flow by integrating third-party APIs, reducing emergency response time by 20%.
   * Improved developer productivity through documentation and proactive system upgrades.
   * Successfully integrated AckoDrive, driving a 400% lead acquisition growth in two weeks.
@@ -30,6 +30,8 @@ Work experience
   * Created Premium features, driving a 5x revenue growth to $1M ARR.
   * Reduced onboarding drop-off rates by 60-70% through iterative improvements.
 
+Fellowships
+======
 * **Celo India Fellowship - Celo India Blockchain Fellow** (June 2021 - August 2021)
   * Increased mobile-focused community participation by 2x.
   * Initiated the port of ContractKit SDK to Dart for improved adoption.
@@ -38,7 +40,7 @@ Work experience
   * Built three sprint projects, collaborating with global teams.
   * Leveraged Ethereum, Web3.js, and other tools to accelerate development.
 
-  
+
 Skills
 ======
 * Programming Languages: Dart, Java, JavaScript(Typescript), Solidity, Julia, Python
@@ -53,13 +55,7 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
