@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'We explore the possibility of LLM assisted Scientific Machine Learning for tackling precise scientific calculations.'
 date: 2024-12-20
-venue: 'The International Conference on Pattern Recognition Application (Submitted)'
+venue: 'The International Conference on Pattern Recognition Application (Accepted)'
 # slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://drive.google.com/drive/folders/1pYSEnLfwTLJ9OBGvaR5vdxza3MjlfrMS'
 citation: 'Sameera S Kashyap, Akshata Kishore Moharir and Parinita Vedantam. (2024). &quot;Position: Role of Large Language Model Assisted Interpretable Scientific Computing for Safety-Critical Domains 2.&quot; <i>Proceedings of The International Conference on Pattern Recognition Application 2025 </i>'
