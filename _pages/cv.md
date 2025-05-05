@@ -11,7 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.E in Computer Science & Engineering (August. 2017 -- August. 2021)
+* Masters in Computer Science and Engineering - University of California, Santa Cruz (Incoming Fall 2025)
+* B.E in Computer Science & Engineering - Visvesvaraya Technological University (VTU)
+(August. 2017 -- August. 2021)
 
 Work experience
 ======
